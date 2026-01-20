@@ -1,0 +1,4 @@
+from .visualization import distribuciones_numericas
+from .visualization import distribuciones_categoricas_cortas
+from .visualization import distribuciones_categoricas_largas
+from .visualization import grafico_categoricos_y_objetivo
